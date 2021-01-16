@@ -12,4 +12,8 @@ MonoGame content is built by the [MGCB](https://docs.monogame.net/articles/tools
 
 First run `dotnet tool restore` as a one-off.
 
-Then to run the app locally use `dotnet fake build -t run`, or simply `dotnet fake build` to build it.
+Then use `dotnet fake build -t run` to build the content and executable and run it locally.
+
+You should see a window like this:
+
+![monogame-fsharp](docs/monogame-fsharp.png "monogame-fsharp")
