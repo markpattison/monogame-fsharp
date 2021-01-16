@@ -16,4 +16,4 @@ Then use `dotnet fake build -t run` to build the content and executable and run 
 
 You should see a window like this:
 
-![monogame-fsharp](monogame-fsharp.png "monogame-fsharp")
+![monogame-fsharp](docs/monogame-fsharp.png "monogame-fsharp")
